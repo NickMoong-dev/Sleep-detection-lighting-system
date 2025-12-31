@@ -1,5 +1,5 @@
-<img width="680" height="277" alt="image" src="https://github.com/user-attachments/assets/78b6a9a3-d019-4c6c-99e2-ffb409077079" /># Sleep-detection-lighting-system
 본 프로젝트는 웹캠을 활용하여 사용자의 수면 상태를 파악, 인지, 통신으로 전등을 자동으로 OFF하는 시스템을 구현한 프로젝트입니다.
+웹캠 및 카메라 -> 사용자 EAR, 고개 -> 수면 감지 -> Dealy 5s -> 라즈베리파이 통신 -> 라즈베리파이 모터 작동
 
 1. 개요
    현대인의 좋은 수면을 방해하는 요소를 '수면 중 조명의 문제가 있고, 현실적으로 부모님께서 수면중 매일, TV와 전등을 키고 주무시면 OFF하러
@@ -11,4 +11,12 @@
    
 <img width="680" height="277" alt="image" src="https://github.com/user-attachments/assets/1c51d15f-0bab-46f8-b70c-3705db8d6dc5" />
   이미지 출처: https://m.dongascience.com/ko/news/56960
+
+
+<img width="1024" height="395" alt="image" src="https://github.com/user-attachments/assets/9deabe2f-ad41-40c3-b72e-6a2f8a700e54" />
+ 이미지 출처: https://42morrow.tistory.com/entry/Mediapipe%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A1%B8%EC%9D%8C%EA%B0%90%EC%A7%80
+
+ 
+구현영상
+https://github.com/user-attachments/assets/9b507000-1fc6-4236-96e2-2582663d636a
 
